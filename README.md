@@ -40,7 +40,7 @@ Hesabatda aşağıdakı cədvəllərdən istifadə olunub:
 ## Layihə Faylları
 
 - `coffee_report.pbix` — Power BI hesabatı və məlumat modeli.
-- `images/dashboard.png` — hesabatın ekran görüntüsü.
+- `coffeeOrdersData_task+.xlsx` — source data
 
 ## Hesabatı Necə Açmaq Olar?
 
